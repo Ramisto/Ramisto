@@ -5,4 +5,4 @@
 - Discord : Ramisto#4702
 - Root-me : [link](https://www.root-me.org/Ramisto)
 - TryHackMe : [link](https://tryhackme.com/p/Ramisto)
-- HTB : [link](https://app.hackthebox.com/profile/1703369)
+- HackTheBox: [link](https://app.hackthebox.com/profile/1703369)
