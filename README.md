@@ -2,8 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramisto&layout=compact&theme=radical)
 
+## CTF platforms
 
-- Discord : Ramisto#4702
-- Root-me : [link](https://www.root-me.org/Ramisto)
-- TryHackMe : [link](https://tryhackme.com/p/Ramisto)
-- HackTheBox : [link](https://app.hackthebox.com/profile/1703369)
+<p align="center">
+  <a href="https://www.root-me.org/Ramisto">Root-me</a> | <a href="https://app.hackthebox.com/profile/1703369">HackTheBox/a> | <a href="https://tryhackme.com/p/Ramisto">TryHackMe</a>
+</p>
