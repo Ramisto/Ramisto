@@ -4,11 +4,11 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ramisto.png" alt="THM Badge" />
 
-![TryHackMe](https://tryhackme.com/r/p/Ramisto)
+[TryHackMe](https://tryhackme.com/r/p/Ramisto)
 
 ![htb-badge](https://www.hackthebox.com/badge/image/1703369)
 
-![HackTheBox](https://app.hackthebox.com/profile/1703369)
+[HackTheBox](https://app.hackthebox.com/profile/1703369)
 
 ### Blog -----------------------
 
