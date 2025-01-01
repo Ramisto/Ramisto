@@ -1,8 +1,8 @@
 <h3>Hi 👋, I'm <strong>Ramisto<strong></h3>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2058210" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ramisto.png" alt="THM Badge" />
 
-![hackthebox](https://www.hackthebox.com/badge/image/1703369)
+![htb-badge](https://www.hackthebox.com/badge/image/1703369)
 
 
 
