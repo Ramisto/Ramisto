@@ -1,6 +1,6 @@
 # Ramisto
 
-###  CTF
+###  Capture the flag
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ramisto.png" alt="Your Image Badge" />
 
