@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm <strong>Ramisto<strong></h3>
+# Ramisto
 
 ###  CTF
 
