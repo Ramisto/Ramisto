@@ -12,7 +12,7 @@
 
 ### ----------------------- Blog -----------------------
 
-https://thecybershop.xyz/
+[https://www.thecybershop.xyz/](https://www.thecybershop.xyz/)
 
 ### ----------------------- Github Stats -----------------------
 
