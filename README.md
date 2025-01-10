@@ -10,10 +10,6 @@
 
 [app.hackthebox.com](https://app.hackthebox.com/profile/1703369)
 
-### ----------------------- Blog -----------------------
-
-[https://www.thecybershop.xyz/](https://www.thecybershop.xyz/)
-
 ### ----------------------- Github Stats -----------------------
 
 ![Ramisto GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramisto&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
