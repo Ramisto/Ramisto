@@ -2,7 +2,7 @@
 
 ###  ----------------------- Capture the flag -----------------------
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ramisto.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ramisto.png" alt="THM Badge" />
 
 [tryhackme.com](https://tryhackme.com/r/p/Ramisto)
 
