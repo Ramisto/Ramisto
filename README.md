@@ -1,14 +1,6 @@
 # Ramisto
 
-### ----------------------- Github Stats -----------------------
-
-![Ramisto GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramisto&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramisto&layout=compact)
-
-### ----------------------- Capture The Flag -----------------------
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ramisto.png" alt="Your Image Badge" />
+![panda](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhzcXFicWRnYWR3bDZheGJ2dHQwanBqcndiNDdyODBseXBiaTVmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3OsSu4BGEwFpQShWP/giphy.gif)
 
 
 
